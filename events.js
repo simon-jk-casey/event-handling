@@ -38,9 +38,9 @@ function three() {
 }
 // CREATE FUNCTION four HERE
 function four() {
-  var four = document.getElementById('four') {
+  var four = document.getElementById('four'); 
   four.addEventListener('click', makeYellow);
-  }
+
 }
 
 // Changes the background color of event's target
